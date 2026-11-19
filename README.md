@@ -1,4 +1,4 @@
-## Hello World! I'm Dieu Linh, call me bbizu  
+## Hello World! I'm Dieu Linh 
 
 Software Engineering student, turning bugs into features. 🐛
 
